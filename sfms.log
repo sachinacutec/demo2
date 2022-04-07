@@ -1,0 +1,8 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Sun Jun 6 17:19:29 2021
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-500: Unable to open file (sfms.ctl)
+SQL*Loader-553: file not found
+SQL*Loader-509: System error: The system cannot find the file specified.
